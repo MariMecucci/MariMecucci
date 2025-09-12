@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="1000"/>
+</p>
+
 ## Oi, eu sou a Marina ✨✨✨
 
 💻 Engenheira de Dados apaixonada por transformar informações em soluções inteligentes.
