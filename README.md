@@ -48,5 +48,5 @@ O foco foi criar um dashboard voltado para as **vendas da marca Nina Makeup** �
 - Já os **dados de vendas e métricas** foram criados de forma **fictícia** apenas para simulação da análise.
   - Outro ponto testado foi a construção dos prompts de IA para o desenvolvimento de forma eficiente do Dash.
 
-Confira o dashboard que desenvolvi no [Lovable](https://nina-beauty-insights.lovable.app) 💄✨
+Confira o dashboard que desenvolvi no [Lovable](https://nina-beauty-insights.lovable.app) 💄✨✨
 
